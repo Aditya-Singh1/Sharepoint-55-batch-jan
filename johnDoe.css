@@ -1,0 +1,86 @@
+.container{width:100%;height:90vh;background-color: lightgreen;padding-top: 10vh;}
+.main{width:300px;height:70vh;background-color: white;position: relative;border-radius: 5px;margin: auto;
+box-shadow: 0px 10px 30px 1px;
+}
+.up{
+    width:290px;
+    height:200px;background-color: rgb(12, 228, 102);
+    position: absolute;
+    top: -25px;
+    left:5px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 10px 20px 1px;
+}
+.up img{
+      border-radius: 50%;
+      margin-top: 5vh;
+}
+#un{color:white;font-size: 25px;font-weight:600;}
+#jn{color:white}
+.down{
+    width:290px;
+    height:60px;
+    background-color: rgb(12, 228, 102);
+    position: absolute;
+    bottom: -20px;
+    left:5px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 25px 1px;
+}
+.down .link img{
+    width:80%;
+    height:40px;
+    margin-top:10%;
+    border-radius: 50%;
+    
+}
+.midLeft{
+    width:50px;
+    height:165px;
+    position: absolute;
+    /* background-color: blue; */
+    top:212px;
+
+}
+.midLeft .b1 img{
+    width:80%;
+    height:40px;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+.midryt{
+    width:190px;
+    height:150px;
+    /* background-color: red; */
+    position: absolute;
+    top:210px;
+    left:80px;
+    text-align:left;
+
+
+}
+.midryt p{color:rgb(12, 228, 102);font-weight: 600;}
+.midryt p span{font-weight: 100;}
+
+.b1{
+    width:100%;
+    height:40px;
+ /* background-color: aquamarine;  */
+    margin-top: 2vh;
+}
+.r1{
+    width:100%;
+    height:40px;
+    /* background-color: bisque; */
+    margin-top: 1vh; 
+}
+.link{
+    width:50px;
+    height:50px;
+    /* background-color: bisque; */
+    float:right;
+     margin-right:5%;
+     margin-top: 1vh;
+
+}
